@@ -1,0 +1,10 @@
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url("Grass.jpg");
+    background-size: cover;
+}
+.container {
+    text-align: center;
+    font-size: 20px;
+}
